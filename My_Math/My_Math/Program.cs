@@ -14,7 +14,7 @@ namespace My_Math
             MyMath math = new MyMath();
             Console.WriteLine(math.Add(9, 19));
             Console.WriteLine(math.Factorial(9));
-            Console.WriteLine(math.Min(20, 20));
+            Console.WriteLine(math.Min(20, 21));
             Console.WriteLine(math.Multiply(19, 2));
 
         }
